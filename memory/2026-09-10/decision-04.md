@@ -78,7 +78,7 @@ The current session is event-risk heavy. Reuters reports EUR/USD around 1.1637 a
 
 ## Frozen rule
 
-**Do not change this forecast after seeing the outcome.**
+**Do not change this forecast after seeing the outcome.**  Gain :	+178.10% , We are still STRONG
 
 The purpose of Decision 04 is to test whether the Brain can respond to a failed trade without revenge trading, overfitting, or forcing the next position.
 
